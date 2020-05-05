@@ -3,7 +3,7 @@
 # Inherit from samsung sdm845-common
 -include device/samsung/sdm845-common/BoardConfigCommon.mk
 
-DEVICE_PATH := device/samsung/crownqlte
+DEVICE_PATH := device/samsung/crownqltechn
 
 # Assert
 TARGET_OTA_ASSERT_DEVICE := crownqltechn

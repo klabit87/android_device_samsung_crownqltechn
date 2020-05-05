@@ -1,1 +1,1 @@
-android_device_samsung_crownqlte
+android_device_samsung_crownqltechn
